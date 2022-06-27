@@ -1,8 +1,6 @@
 Getting Started
 ===============
 
-Welcome to polo-sdk-python.  Here you will learn how to use and access Poloniex's trading API with python.
-
 Installation
 ------------
 
