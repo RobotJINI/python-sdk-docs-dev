@@ -11,8 +11,13 @@ Contents
 --------
 
 .. toctree::
+    :maxdepth: 2
 
-   getting_started
-   rest_client
-   public_rest
-   polosdk
+    getting_started
+    rest_client
+    public_rest
+
+Index
+==================
+
+* :ref:`genindex`

@@ -1,0 +1,9 @@
+{
+	"include": [
+		"testsdk"
+	],
+	"reportMissingImports": false,
+	"reportMissingModuleSource": false,
+	"typeCheckingMode": "basic",
+	"reportWildcardImportFromLibrary": false
+}
