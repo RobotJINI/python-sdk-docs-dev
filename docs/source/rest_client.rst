@@ -1,4 +1,4 @@
-Rest Client
+Rest Client API
 ===============
 
 Overview

@@ -2,8 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+import os
+import sys
+sys.path.insert(0, os.path.abspath('..'))
+
+project = 'Python-sdk-docs-dev'
+copyright = '2022, Graziella'
 author = 'Graziella'
 
 release = '0.1'
@@ -30,6 +34,12 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+# The suffix(es) of source filenames.
+# You can specify multiple suffix as a list of string:
+#
+# source_suffix = ['.rst', '.md']
+source_suffix = '.rst'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
