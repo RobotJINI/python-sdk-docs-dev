@@ -1,7 +1,7 @@
 Getting Started
 ===============
 
-Installation
+Installation <(^.^)>
 ------------
 
 ``polo-sdk-python`` is available on `PYPI <https://pypi.python.org/pypi/polo-sdk-python/>`_.
