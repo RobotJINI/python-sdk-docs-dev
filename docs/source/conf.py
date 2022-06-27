@@ -4,7 +4,7 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('..'))
+sys.path.insert(0, os.path.abspath('../testsdk'))
 
 project = 'Python-sdk-docs-dev'
 copyright = '2022, Graziella'
@@ -20,7 +20,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
+    'sphinx.ext.intersphinx'
 ]
 
 intersphinx_mapping = {
