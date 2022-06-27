@@ -16,6 +16,7 @@ Contents
     getting_started
     rest_client
     public_rest
+    polosdk
 
 Index
 ==================
